@@ -1,0 +1,2 @@
+Index of generation w/greatest change in avg fitness: 983 
+ Generation with satn value of gm: 87043
