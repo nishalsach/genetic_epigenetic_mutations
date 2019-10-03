@@ -1,2 +1,2 @@
 # pbl_2017
-Repository to document my work on modelling fitness landscapes with Dr. Sutirth Dey
+This repository documents my code to replicate the model proposed by [Collins et. al], which dealt with genetic and epigenetic mutations, and their effects on population fitness in different kinds of Wright-Fischer populations.
