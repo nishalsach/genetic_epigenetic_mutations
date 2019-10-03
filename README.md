@@ -1,2 +1,2 @@
 # pbl_2017
-This repository documents my code to replicate the model proposed by [Collins et. al], which dealt with genetic and epigenetic mutations, and their effects on population fitness in different kinds of Wright-Fischer populations.
+This repository documents my code to replicate the model proposed by [Collins et. al](https://www.deepdyve.com/lp/wiley/how-epigenetic-mutations-can-affect-genetic-evolution-model-and-U8R7RV0UR4), which dealt with genetic and epigenetic mutations, and their effects on population fitness in different kinds of Wright-Fischer populations. I worked on this project with [Dr. Sutirth Dey](https://sites.google.com/a/acads.iiserpune.ac.in/sdlab/pbl-iiser-p) from the the Population Biology Lab at IISER Pune.
