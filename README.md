@@ -1,4 +1,4 @@
-# Models of Random Genetic and Epigenetic Mutations (IISER Pune)
+# Models of Random Genetic and Epigenetic Mutations
 
 The interplay of heritable epigenetic changes with genetic changes can provide vital insights into the pace at which populations adapt to their surroundings.
 
